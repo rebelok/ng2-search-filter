@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ng server",
-    "postinstall": "typings install"
+    "postinstall": "npm run typings install"
   },
   "repository": {
     "type": "git",
